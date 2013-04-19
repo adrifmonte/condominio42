@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SWOTDef xmlns:swot="www.i-swot.com">
+  <Strengths>
+    <Feature>
+      <FeatureId>2</FeatureId>
+      <FeatureName>Família</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>3</FeatureId>
+      <FeatureName> Interativa</FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>4</FeatureId>
+      <FeatureName>Comunicativa e Expressiva</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>5</FeatureId>
+      <FeatureName>Dedicada e Determinada</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>20</FeatureId>
+      <FeatureName>Cautelosa</FeatureName>
+      <Weight>2</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>21</FeatureId>
+      <FeatureName>Paciente</FeatureName>
+      <Weight>2</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>22</FeatureId>
+      <FeatureName>Ouvinte</FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+  </Strengths>
+  <Weaknesses>
+    <Feature>
+      <FeatureId>12</FeatureId>
+      <FeatureName>Tempo</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>13</FeatureId>
+      <FeatureName>Mudança de paradigmas</FeatureName>
+      <Weight>2</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>14</FeatureId>
+      <FeatureName>Previsões e estimativas de prazos</FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>15</FeatureId>
+      <FeatureName> Delegação de prioridades</FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>23</FeatureId>
+      <FeatureName>Proatividade</FeatureName>
+      <Weight>1</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>24</FeatureId>
+      <FeatureName>Visão Empreendedora</FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>25</FeatureId>
+      <FeatureName>Publicidade e Marketing</FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+  </Weaknesses>
+  <Opportunities>
+    <Feature>
+      <FeatureId>7</FeatureId>
+      <FeatureName>Fácil acesso a rede e tecnologias de comunicação</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>8</FeatureId>
+      <FeatureName>Plano de carreira</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>9</FeatureId>
+      <FeatureName>TCC</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>10</FeatureId>
+      <FeatureName>Necessidade contínua de novas tecnologias de informação em todos os setores econômicos-comercias</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>11</FeatureId>
+      <FeatureName>Mercado inovador e avanços tecnológicos</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+  </Opportunities>
+  <Threats>
+    <Feature>
+      <FeatureId>16</FeatureId>
+      <FeatureName>Assiduidade</FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>17</FeatureId>
+      <FeatureName> Insatisfação dos clientes</FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>18</FeatureId>
+      <FeatureName>Infraestrutura</FeatureName>
+      <Weight>2</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>19</FeatureId>
+      <FeatureName>Pouca Experiência em Liderança</FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>26</FeatureId>
+      <FeatureName>Concorrência </FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+  </Threats>
+  <Title />
+</SWOTDef>

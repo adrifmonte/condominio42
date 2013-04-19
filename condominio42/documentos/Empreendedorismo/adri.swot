@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SWOTDef xmlns:swot="www.i-swot.com">
+  <Strengths>
+    <Feature>
+      <FeatureId>2</FeatureId>
+      <FeatureName>experiência técnica</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>3</FeatureId>
+      <FeatureName>visão crítica</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>4</FeatureId>
+      <FeatureName>espírito empreendedor</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>5</FeatureId>
+      <FeatureName>idealizador</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>6</FeatureId>
+      <FeatureName>maturidade do modelo</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>7</FeatureId>
+      <FeatureName>otimismo</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>8</FeatureId>
+      <FeatureName>camaradagem </FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+  </Strengths>
+  <Weaknesses>
+    <Feature>
+      <FeatureId>19</FeatureId>
+      <FeatureName>tempo</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>20</FeatureId>
+      <FeatureName>visão crítica</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>21</FeatureId>
+      <FeatureName>venda</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>22</FeatureId>
+      <FeatureName>organização </FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>23</FeatureId>
+      <FeatureName>intransigência</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>24</FeatureId>
+      <FeatureName>gestão </FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>25</FeatureId>
+      <FeatureName>liderança </FeatureName>
+      <Weight>2</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>26</FeatureId>
+      <FeatureName>direito </FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+  </Weaknesses>
+  <Opportunities>
+    <Feature>
+      <FeatureId>9</FeatureId>
+      <FeatureName>equipe</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>10</FeatureId>
+      <FeatureName>mercado</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>11</FeatureId>
+      <FeatureName>orientador </FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>12</FeatureId>
+      <FeatureName>conselheiro</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>13</FeatureId>
+      <FeatureName>concorrência</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>14</FeatureId>
+      <FeatureName>professores </FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>18</FeatureId>
+      <FeatureName>cpqd</FeatureName>
+      <Weight>1</Weight>
+    </Feature>
+  </Opportunities>
+  <Threats>
+    <Feature>
+      <FeatureId>27</FeatureId>
+      <FeatureName>facilidade de concorrência</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>28</FeatureId>
+      <FeatureName>ausência de investidores</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>29</FeatureId>
+      <FeatureName>modelo não funcionar</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>30</FeatureId>
+      <FeatureName>não conseguir venda</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>31</FeatureId>
+      <FeatureName>problemas jurídicos</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+  </Threats>
+  <Title />
+</SWOTDef>

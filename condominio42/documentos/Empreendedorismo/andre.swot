@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SWOTDef xmlns:swot="www.i-swot.com">
+  <Strengths>
+    <Feature>
+      <FeatureId>2</FeatureId>
+      <FeatureName>Determinição</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>3</FeatureId>
+      <FeatureName>Companherismo </FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>4</FeatureId>
+      <FeatureName>Otimismo </FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>5</FeatureId>
+      <FeatureName>Experiência</FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+  </Strengths>
+  <Weaknesses>
+    <Feature>
+      <FeatureId>12</FeatureId>
+      <FeatureName>Prazos</FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>13</FeatureId>
+      <FeatureName>Tecnologia </FeatureName>
+      <Weight>2</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>14</FeatureId>
+      <FeatureName>Entendimento</FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>15</FeatureId>
+      <FeatureName>Negociação</FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+  </Weaknesses>
+  <Opportunities>
+    <Feature>
+      <FeatureId>7</FeatureId>
+      <FeatureName>Projetos </FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>8</FeatureId>
+      <FeatureName>Professores </FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>9</FeatureId>
+      <FeatureName>Orientador </FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>10</FeatureId>
+      <FeatureName>Estagio</FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>11</FeatureId>
+      <FeatureName>TCC</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+  </Opportunities>
+  <Threats>
+    <Feature>
+      <FeatureId>16</FeatureId>
+      <FeatureName>Publico Alvo</FeatureName>
+      <Weight>2</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>17</FeatureId>
+      <FeatureName>Problemas Jurídicos</FeatureName>
+      <Weight>2</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>18</FeatureId>
+      <FeatureName>Infraestrutura</FeatureName>
+      <Weight>2</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>19</FeatureId>
+      <FeatureName>Capital</FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+  </Threats>
+  <Title />
+</SWOTDef>

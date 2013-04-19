@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SWOTDef xmlns:swot="www.i-swot.com">
+  <Strengths>
+    <Feature>
+      <FeatureId>2</FeatureId>
+      <FeatureName>Experiência em Programação</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>3</FeatureId>
+      <FeatureName>Analise Crítica</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>4</FeatureId>
+      <FeatureName>Liderança</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>5</FeatureId>
+      <FeatureName>Comunicação </FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>6</FeatureId>
+      <FeatureName>Determinação</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>7</FeatureId>
+      <FeatureName>Confiança </FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>8</FeatureId>
+      <FeatureName>CI&amp;T</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>9</FeatureId>
+      <FeatureName>Empreendedora</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>10</FeatureId>
+      <FeatureName>Capacidade de adaptação</FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+  </Strengths>
+  <Weaknesses>
+    <Feature>
+      <FeatureId>17</FeatureId>
+      <FeatureName>Controladorismo</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>18</FeatureId>
+      <FeatureName>Paciência </FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>19</FeatureId>
+      <FeatureName>Comunicação </FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>20</FeatureId>
+      <FeatureName>Exigencia </FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>21</FeatureId>
+      <FeatureName>Ansiedade</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>22</FeatureId>
+      <FeatureName>Modestia </FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>23</FeatureId>
+      <FeatureName>Teimosia </FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>24</FeatureId>
+      <FeatureName>Competitiva </FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>25</FeatureId>
+      <FeatureName>Opinião forte</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>28</FeatureId>
+      <FeatureName>Preocupada</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+  </Weaknesses>
+  <Opportunities>
+    <Feature>
+      <FeatureId>11</FeatureId>
+      <FeatureName>TCC</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>12</FeatureId>
+      <FeatureName>Universidade </FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>13</FeatureId>
+      <FeatureName>Tecnologias</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>14</FeatureId>
+      <FeatureName>Mercado Mobile</FeatureName>
+      <Weight>3</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>15</FeatureId>
+      <FeatureName>AutoConhecimento e Crescimento</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>16</FeatureId>
+      <FeatureName>Intecambio </FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+  </Opportunities>
+  <Threats>
+    <Feature>
+      <FeatureId>26</FeatureId>
+      <FeatureName>Concorrente</FeatureName>
+      <Weight>5</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>27</FeatureId>
+      <FeatureName>Mudar Paradigmas</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>29</FeatureId>
+      <FeatureName>Problemas juridica</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+    <Feature>
+      <FeatureId>30</FeatureId>
+      <FeatureName>Venda não efetivas</FeatureName>
+      <Weight>4</Weight>
+    </Feature>
+  </Threats>
+  <Title />
+</SWOTDef>
