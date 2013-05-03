@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:ui="http://java.sun.com/jsf/facelets"
+    xmlns:h="http://java.sun.com/jsf/html"
+    xmlns:f="http://java.sun.com/jsf/core">
+
+<ui:composition template="../../../template.xhtml">
+    <ui:define name="content">
+        <h:messages />
+        <h:form>
+        	<h:panelGrid columns="3">
+	        	<h:commandButton action="#{permissaoView.irParaIncluir}" value="Incluir" />
+        		<h:dataTable value="#{permissaoView.permissoes}" var="permissao">
+        			<h:column>
+        				<f:facet name="header">Id</f:facet>
+        				<h:outputText value="#{permissao.id}" />
+        			</h:column>
+        			<h:column>
+        				<f:facet name="header">Nome</f:facet>
+        				<h:commandLink action="#{permissaoView.irParaAlterar(permissao)}">
+        					<h:outputText value="#{permissao.nome}" />
+        				</h:commandLink>
+        			</h:column>
+        			<h:column>
+        				<f:facet name="header">Descrição</f:facet>
+        				<h:outputText value="#{permissao.descricao}" />
+        			</h:column>
+        			<h:column>
+        				<f:facet name="header"></f:facet>
+        				<h:commandLink action="#{permissaoView.excluir(permissao)}">
+        					Excluir
+        				</h:commandLink>
+        			</h:column>
+        		</h:dataTable>
+        	</h:panelGrid>
+        </h:form>       
+    </ui:define>
+</ui:composition>
+</html>
